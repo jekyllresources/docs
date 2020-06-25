@@ -2,8 +2,8 @@
 version: 4.1.0
 name: Jekyll • Simple, blog-aware, static sites
 description: Transform your plain text into static websites and blogs
-url: https://github.com/jekyllresources/docs
-repository: https://github.com/jekyllresources/docs
+url: https://github.com/jekyllresources/test
+repository: https://github.com/jekyllresources/test
 timezone: America/Los_Angeles
 twitter:
   username: jekyllrb
